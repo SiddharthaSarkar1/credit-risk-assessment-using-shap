@@ -2,6 +2,6 @@ version = 1
 requires-python = ">=3.13"
 
 [[package]]
-name = "credit-risk-assessment-using-shap"
+name = "credit-risk-assesment-using-shap"
 version = "0.1.0"
 source = { virtual = "." }
