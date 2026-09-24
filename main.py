@@ -1,5 +1,5 @@
 def main():
-    print("Hello from credit-risk-assesment-using-shap!")
+    print("Hello from credit-risk-assessment-using-shap!")
 
 
 if __name__ == "__main__":
